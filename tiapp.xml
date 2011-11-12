@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <guid>71b008d1-b1d1-4362-ab55-e86f2c01acda</guid>
+    <!-- These values are edited/maintained by Titanium Developer -->
+    <id>com.digitalsadhu.webserver</id>
+    <name>Webserver</name>
+    <version>1.0</version>
+    <publisher>digitalsadhu</publisher>
+    <url>http://digitalsadhu.com</url>
+    <description>A front end for launching the vlamp</description>
+    <icon>default_app_logo.png</icon>
+    <copyright>2011 by digitalsadhu</copyright>
+    <!-- Window Definition - these values can be edited -->
+    <window>
+        <id>initial</id>
+        <title>DeskTest</title>
+        <url>app://index.html</url>
+        <width>300</width>
+        <max-width>300</max-width>
+        <min-width>300</min-width>
+        <height>200</height>
+        <max-height>200</max-height>
+        <min-height>200</min-height>
+        <fullscreen>false</fullscreen>
+        <resizable>true</resizable>
+        <chrome scrollbars="true">true</chrome>
+        <maximizable>false</maximizable>
+        <minimizable>true</minimizable>
+        <closeable>true</closeable>
+    </window>
+</ti:app>
